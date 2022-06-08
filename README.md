@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidlaucw
+- 👋 Hi, I’m David Lau
 - 👀 I’m interested in data science, machine learning and AI.
 
 <!---
